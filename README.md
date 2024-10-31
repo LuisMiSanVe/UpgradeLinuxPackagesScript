@@ -1,3 +1,4 @@
+> [See in spanish/Ver en español](https://github.com/LuisMiSanVe/UpgradeLinuxPackagesScript/tree/spanish)
 # 📦 Linux Package Updater
 This is a very simple script made for those that are starting to use Debian-based Linux distributions, especifically Ubuntu.
 ## 📖 About the script
