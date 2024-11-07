@@ -8,5 +8,5 @@ By default, the 2nd option (Search packages in Download folder), searches .deb a
 Give it launch permissions if necessary and select 'Open on Terminal' to launch it ot 'Show' to edit the Script. If you missclicked 'Open' the process will start on the background so you must kill it with the system monitor.
 ## 💻 Technologies used
 - Programming Lenguage: Shell/Bash
-- Tested OS: Ubuntu 20.04
-- Recomemded IDE: Gedit
+- Tested OS: [Ubuntu](https://ubuntu.com/) 20.04
+- Recomemded IDE: [Gedit](https://help.gnome.org/users/gedit/stable/gedit-quickstart.html.en)
