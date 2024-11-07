@@ -8,5 +8,5 @@ Por defecto, la segunda opción (Buscar paquetes en la carpeta de Descargas), bu
 Debes darle permisos de ejecución si es necesario y seleccionar 'abrir en Terminal' para ejecutarlo o 'Mostrar' para editar el Script. Si pulsas erroneamente 'Abrir' el proceso se quedará en segundo plano y deberás matarlo con el Monitor del sistema.
 ## 💻 Tecnologías usadas:
 - Lenguaje de programación: Shell/Bash
-- Probado en: Ubuntu 20.04
-- IDE Recomendado: Gedit
+- Probado en: [Ubuntu](https://ubuntu.com/) 20.04
+- IDE Recomendado: [Gedit](https://help.gnome.org/users/gedit/stable/gedit-quickstart.html.es)
