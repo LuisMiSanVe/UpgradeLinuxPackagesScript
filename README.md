@@ -1,5 +1,8 @@
 > [See in spanish/Ver en español](https://github.com/LuisMiSanVe/UpgradeLinuxPackagesScript/tree/spanish)
 # 📦 Linux Package Updater
+[![image](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)]()
+[![image](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
+
 This is a very simple script made for those that are starting to use Debian-based Linux distributions, especifically Ubuntu.
 ## 📖 About the script
 Not only uses all commands avaliable on Debian-based OS to check, install, upgrade and autoremove (delete no longer needed packages), it also updates or installs downloaded packages, which is way more comfortable than using the Snap Store that often glitches or when you need to upgrade you have to completly reinstall the package, this script avoids that.
