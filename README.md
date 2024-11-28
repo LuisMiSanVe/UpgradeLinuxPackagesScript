@@ -1,5 +1,8 @@
 > [Ver en inglés/See in english](https://github.com/LuisMiSanVe/UpgradeLinuxPackagesScript/tree/main)
 # 📦 Actualizador de paquetes de Linux
+[![image](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)]()
+[![image](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
+
 Script muy básico que hice para aquellos que empiezan a usar distribuciones de Linux basadas en Debian, especificamente Ubuntu.
 ## 📖 Sobre el script
 No solo usa todos los comandos a disposición de los SO basados en Debian para buscar, instalar, actualizar y autoeliminar (eliminar paquetes que ya no son necesarios), también instala o actualiza paquetes que hayas descargado, lo cual es bastante más cómodo que usar la Snap Store que muchas veces falla o cuando tienes que actualizar primero debes desinstalar ese paquete, este script evita eso.
