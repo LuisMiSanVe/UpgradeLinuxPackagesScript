@@ -1,4 +1,4 @@
-> [See in spanish/Ver en español](https://github.com/LuisMiSanVe/UpgradeLinuxPackagesScript/tree/spanish)
+> [See in spanish/Ver en español](https://github.com/LuisMiSanVe/UpgradeLinuxPackagesScript/blob/main/README.es.md)
 # 📦 Linux Package Updater
 [![image](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)]()
 [![image](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
