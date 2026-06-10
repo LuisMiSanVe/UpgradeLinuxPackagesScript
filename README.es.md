@@ -1,14 +1,26 @@
 > [Ver en inglés/See in english](https://github.com/LuisMiSanVe/UpgradeLinuxPackagesScript/tree/main)
 # 📦 Actualizador de paquetes de Linux
 [![image](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)]()
+[![image](https://img.shields.io/badge/Debian-%23d70a3f.svg?style=for-the-badge&logo=Debian&logoColor=ffffff)](https://www.debian.org/)
 [![image](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
+[![image](https://img.shields.io/badge/Arch-%231793d1.svg?style=for-the-badge&logo=Arch%20Linux&logoColor=ffffff)](https://archlinux.org/)
 
-Script muy básico que hice para aquellos que empiezan a usar distribuciones de Linux basadas en Debian, especificamente Ubuntu.
+Script muy básico que hice para aquellos que no quieren usar el terminal de comandos.
+
+Actualmente funciona en distros [Debian (Ubuntu)]() y [Arch (Manjaro)](https://github.com/LuisMiSanVe/UpgradeLinuxPackagesScript/tree/arch).
+
+Actualizar paquetes es una de las cosas más importantes de hacer en una distro de Linux, ¡este script lo hace más sencillo para el usuario!
+
 ## 📖 Sobre el script
-No solo usa todos los comandos a disposición de los SO basados en Debian para buscar, instalar, actualizar y autoeliminar (eliminar paquetes que ya no son necesarios), también instala o actualiza paquetes que hayas descargado, lo cual es bastante más cómodo que usar la Snap Store que muchas veces falla o cuando tienes que actualizar primero debes desinstalar ese paquete, este script evita eso.
+Usa todos los comandos del repositorio oficial de la distro para buscar, instalar, actualizar y autoeliminar (eliminar paquetes que ya no son necesarios) y también instala o actualiza paquetes que hayas descargado
+
+Actualizar desde el terminal de comandos suele ser más eficiente y cómodo, especialmente en el caso de usar la Snap Store, ya que para actualizar un paquete, primero debes desinstalarlo. 
+
 ## 🛠️ Instalación
-Por defecto, la segunda opción (Buscar paquetes en la carpeta de Descargas), busca archivos .deb and .tar en la carpeta de 'Downloads', quizá necesites cambiar esto para adaptarlo a la carpeta donde sueles dejar tus cosas descargadas o cambiar el nombre a otro idioma.
-Debes darle permisos de ejecución si es necesario y seleccionar 'abrir en Terminal' para ejecutarlo o 'Mostrar' para editar el Script. Si pulsas erroneamente 'Abrir' el proceso se quedará en segundo plano y deberás matarlo con el Monitor del sistema.
+Por defecto, la segunda opción (Buscar paquetes en la carpeta de Descargas), busca archivos .deb and .tar en la carpeta de 'Downloads', **quizá necesites cambiar esto** para adaptarlo a la carpeta donde sueles dejar tus cosas descargadas.
+
+Debes darle permisos de ejecución si es necesario y seleccionar 'abrir en Terminal'.
+
 ## 💻 Tecnologías usadas:
 - Lenguaje de programación: Shell/Bash
 - Probado en: [Ubuntu](https://ubuntu.com/) 20.04
