@@ -1,4 +1,4 @@
-> [Ver en inglés/See in english](https://github.com/LuisMiSanVe/UpgradeLinuxPackagesScript/tree/main)
+> [Ver en inglés/See in english](https://github.com/LuisMiSanVe/UpgradeLinuxPackagesScript/tree/arch)
 # 📦 Actualizador de paquetes de Linux
 [![image](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)]()
 [![image](https://img.shields.io/badge/Debian-%23d70a3f.svg?style=for-the-badge&logo=Debian&logoColor=ffffff)](https://www.debian.org/)
@@ -7,7 +7,7 @@
 
 Script muy básico que hice para aquellos que no quieren usar el terminal de comandos.
 
-Actualmente funciona en distros [Debian (Ubuntu)]() y [Arch (Manjaro)](https://github.com/LuisMiSanVe/UpgradeLinuxPackagesScript/tree/arch).
+Actualmente funciona en distros [Debian (Ubuntu)](https://github.com/LuisMiSanVe/UpgradeLinuxPackagesScript/tree/main) y [Arch (Manjaro)]().
 
 Actualizar paquetes es una de las cosas más importantes de hacer en una distro de Linux, ¡este script lo hace más sencillo para el usuario!
 

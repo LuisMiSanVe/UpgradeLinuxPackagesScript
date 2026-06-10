@@ -17,14 +17,12 @@ echo ====================================================
 echo Choose an option:
 read OPCION;
 case $OPCION in
-1) sudo apt update; 
-sudo apt upgrade -y; 
-sudo apt autoremove -y; 
+1) sudo pacman -Syu
 echo Press any key to continue; read NADA;;
-2) sudo dpkg -i ../Downloads/*.deb; 
-sudo tar -xvf ../Downloads/*.tar.xz ; 
-sudo tar -xvf ../Downloads/*.tar.gz ;
-rm -f ../Downloads/*.deb
+2) sudo pacman -U ../Downloads/*.pkg.tar.zst
+tar -xvf ../Downloads/*.tar.xz 2>/dev/null
+tar -xvf ../Downloads/*.tar.gz 2>/dev/null
+rm -f ../Downloads/*.pkg.tar.zst
 rm -f ../Downloads/*.tar.xz
 rm -f ../Downloads/*.tar.gz
 echo Press any key to continue; read NADA;;

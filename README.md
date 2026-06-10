@@ -1,4 +1,4 @@
-> [See in spanish/Ver en español](https://github.com/LuisMiSanVe/UpgradeLinuxPackagesScript/blob/main/README.es.md)
+> [See in spanish/Ver en español](https://github.com/LuisMiSanVe/UpgradeLinuxPackagesScript/blob/arch/README.es.md)
 # 📦 Linux Package Updater
 [![image](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)]()
 [![image](https://img.shields.io/badge/Debian-%23d70a3f.svg?style=for-the-badge&logo=Debian&logoColor=ffffff)](https://www.debian.org/)
@@ -7,7 +7,7 @@
 
 This is a very simple script made for those that want to avoid the command line.
 
-Currently supporting [Debian (Ubuntu)]() and [Arch (Manjaro)](https://github.com/LuisMiSanVe/UpgradeLinuxPackagesScript/tree/arch) distros.
+Currently supporting [Debian (Ubuntu)](https://github.com/LuisMiSanVe/UpgradeLinuxPackagesScript/tree/main) and [Arch (Manjaro)]() distros.
 
 Updating the packages is the one of the most important things to do in Linux distros, this script makes it more user friendly!
 
