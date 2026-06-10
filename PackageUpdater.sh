@@ -17,8 +17,17 @@ echo ====================================================
 echo Choose an option:
 read OPCION;
 case $OPCION in
-1) sudo apt update; sudo apt upgrade -y; sudo apt autoremove -y; echo Press any key to continue; read NADA;;
-2) sudo dpkg -i ../../Downloads/*.deb; sudo tar -xvf ../../Downloads/*.tar.xz ; sudo tar -xvf ../../Downloads/*.tar.gz ;echo Press any key to continue; read NADA;;
+1) sudo apt update; 
+sudo apt upgrade -y; 
+sudo apt autoremove -y; 
+echo Press any key to continue; read NADA;;
+2) sudo dpkg -i ../Downloads/*.deb; 
+sudo tar -xvf ../Downloads/*.tar.xz ; 
+sudo tar -xvf ../Downloads/*.tar.gz ;
+rm -f ../Downloads/*.deb
+rm -f ../Downloads/*.tar.xz
+rm -f ../Downloads/*.tar.gz
+echo Press any key to continue; read NADA;;
 e|E) break;;
 esac
 done
